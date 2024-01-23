@@ -1,3 +1,3 @@
-module github.com/bluekeyes/go-gitdiff
+module github.com/jfxdev/go-gitdiff
 
 go 1.13
